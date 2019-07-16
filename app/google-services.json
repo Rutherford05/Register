@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501201980355",
+    "firebase_url": "https://myregister-3b711.firebaseio.com",
+    "project_id": "myregister-3b711",
+    "storage_bucket": "myregister-3b711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501201980355:android:44db3aa004e6c5f7",
+        "android_client_info": {
+          "package_name": "com.example.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501201980355-3o0b1hbb5lvbi2hu95k8r8nc4upv8i2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR48XXF8ImvVSHF7dCCvONhfgENuWLDOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501201980355-3o0b1hbb5lvbi2hu95k8r8nc4upv8i2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
